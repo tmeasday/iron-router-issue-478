@@ -4,7 +4,7 @@
     "basePackages": {
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",
-        "branch": "new-location"
+        "branch": "blaze-integration"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
@@ -14,8 +14,8 @@
     "packages": {
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",
-        "branch": "new-location",
-        "commit": "91ab402fc5aa2d755317e29f2338cb7aee6f73ae"
+        "branch": "blaze-integration",
+        "commit": "77ddcd69a75fedb68ab57a7fb15b7f7e76b01f92"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
