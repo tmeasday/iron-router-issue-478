@@ -1,0 +1,17 @@
+<head>
+  <title>ir-data-context-changes</title>
+</head>
+
+<template name="logger">
+  {{log}}
+</template>
+
+<template name="a">
+  {{> logger options}}
+  <a href="/b">B</a>
+</template>
+  
+<template name="b">
+  {{> logger options}}
+  <a href="/a">A</a>
+</template>
